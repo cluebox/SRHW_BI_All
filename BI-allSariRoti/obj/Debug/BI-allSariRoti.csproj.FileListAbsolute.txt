@@ -1,0 +1,8 @@
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\bin\Debug\BI-allSariRoti.exe.config
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\bin\Debug\BI-allSariRoti.exe
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\bin\Debug\BI-allSariRoti.pdb
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\bin\Debug\SpssLib.dll
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\bin\Debug\SpssLib.xml
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\obj\Debug\BI-allSariRoti.exe
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\obj\Debug\BI-allSariRoti.pdb
+D:\Dotnet project\SariRHW\BI-allSariRoti\BI-allSariRoti\obj\Debug\BI-allSariRoti.csprojResolveAssemblyReference.cache
